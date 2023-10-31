@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EllyBax
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m a Full Stack Developer 
 - 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on backend development projects
+- 💞️ I’m looking to collaborate on full stack development projects
 - 📫 Contact me at "baxllycc@gmail.com"
 
 <!---
